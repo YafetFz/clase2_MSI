@@ -1,0 +1,16 @@
+Repositorio: Sitio donde se almacena el codigo de algun proyecto. Es como una carpeta que contiene todo los archivos y la historial del proyecto
+
+Commit: Un registro de cambios en el codigo. Es un punto de guardado
+
+Branch: Una version paralela del codigo. Permite hacer cambios sin afectar el original
+
+Marge: Combinar los cambios de una rama con otra. Ir en dos caminos en uno solo
+
+Pull Request: Para discutir los cambios antes de aceptarlos
+
+Clone: Hacer una copia exacta del repositorio 
+
+Fork: Hacer una copia de un repositorio a tu computadora para trabajarlo de forma propia 
+
+Diff: Comparacion del codigo que muestra diferencias 
+
